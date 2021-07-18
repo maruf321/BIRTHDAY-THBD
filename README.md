@@ -16,6 +16,8 @@ ls
 
 cd BIRTHDAY-THBD
 
-chmod +x BIRTHDAY-THBD
+ls
 
-python BIRTHDAY-THBD.py
+chmod +x Birthday.py
+
+python Birthday.py
